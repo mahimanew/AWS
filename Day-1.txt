@@ -1,0 +1,67 @@
+Aws cloud Practitioner:
+
+- Entry level aws certification
+
+- you will learn fundamentals like cloud concepts, cloud Architecture, cloud deployment model
+
+- and will learn about aws core services.
+
+Cloud computing:
+
+- practice of using a remote servers on the internet to store and process data rather than local server or personal computer
+
+Types of cloud:
+
+- public -> run everything with cloud providers
+- private - > run in private data centers
+- hybrid - > use both
+- cross cloud
+
+
+Types of cloud hosting:
+
+- dedicated server -> One physical server -> it is very expensive, high maintenance, High security
+- virtual private server -> One physical server is virtualized into sub-machines -> it is very expensive, high maintenance, High security
+- shared hosting -> one machine shared by hundreds of business -> very cheap
+- cloud hosting -> Multiple machines act as one system and it is shared by multiple business or multiple people
+
+About AWS:
+
+- launched in 2004 -> sqs
+- leading cloud service provider
+- in 2006 -> S3 and EC2
+
+Cloud computing models:
+
+Iaas -> 
+paas -> EBS
+saas -> ex: gmail, office365
+
+Types of services:
+
+- compute
+- network
+- database
+- storage
+
+Evaluations:
+
+- Dedicated
+- VM
+- container
+- function
+
+
+Aws account creation: 
+
+
+
+
+
+
+
+
+
+
+
+
